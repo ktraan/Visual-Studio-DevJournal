@@ -3,10 +3,10 @@
 ## `<connectionStrings>`
 
 Where to add connectionStrings and what to include:
-name="giveName"
-Data Source="serverName"
-Initial Catalog="nameOfDB"
-Intergrated Security="true"
+* name="giveName"
+* Data Source="serverName"
+* Initial Catalog="nameOfDB"
+* Intergrated Security="true"
 
 ```html
 <connectionStrings>
