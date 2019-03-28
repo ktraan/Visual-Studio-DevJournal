@@ -7,4 +7,5 @@ Here's a bunch of content knowledge/snippets I want to remember
 
 - **ASP.NET WebForms**
   - [connectionStrings](connectionString.md)
+  - [Class Library Basics][ClassLibrary.md)
   - [Adding References](WebFormReferences.md)
