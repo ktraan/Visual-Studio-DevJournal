@@ -7,3 +7,4 @@ Here's a bunch of content knowledge/snippets I want to remember
 
 - **ASP.NET WebForms**
   - [connectionStrings](connectionString.md)
+  - [Adding References](Web Forms Accessing Database.md)
