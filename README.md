@@ -1,4 +1,4 @@
-#  Kevin's Developer Journal
+##  Kevin's Developer Journal
 
 Here's a bunch of content knowledge/snippets I want to remember
 
@@ -10,6 +10,9 @@ Here's a bunch of content knowledge/snippets I want to remember
   - [Setting up Class Libraries](ClassLibrary.md)
   - [Adding References](WebFormReferences.md)
   - [Entity Classes Basics](EntityClass.md)
+  - [Data Access Layer](DAL.md)
+    - [DAL Basics](DALBasics.md)
   - [Business Logic Layer](BLL.md)
+    - [Controllers](Controllers.md)
     - [Stored Procedures](UsingStoredProcedures.md)
     
