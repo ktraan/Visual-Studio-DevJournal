@@ -9,3 +9,4 @@ Here's a bunch of content knowledge/snippets I want to remember
   - [connectionStrings](connectionString.md)
   - [Setting up Class Libraries](ClassLibrary.md)
   - [Adding References](WebFormReferences.md)
+  - [Entity Classes Basics](EntityClass.md)
