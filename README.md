@@ -11,5 +11,5 @@ Here's a bunch of content knowledge/snippets I want to remember
   - [Adding References](WebFormReferences.md)
   - [Entity Classes Basics](EntityClass.md)
   - [Business Logic Layer](BLL.md)
-    -[Stored Procedures](UsingStoredProcedures.md)
+    - [Stored Procedures](UsingStoredProcedures.md)
     
