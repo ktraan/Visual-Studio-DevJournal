@@ -1,8 +1,23 @@
 # Data Access Layer Basics
 
+**Make sure the project has Entity Framework for each part and then add the System.Data.Entity reference to the project**
+
 - The DAL class will inherit from Entity Framework's DbContext class in order to get all the functionallity to map our 
 entity classes to the database tables.
 - You can think of this class as being a virtual representation of the database
+
+
+1. First create the internal class that inherits from "DbContext"
+1. Press CTRL + . on the DbContext to add the namespace System.Data.Entity to the project.
+1. Create a default constructor that assigns the base value of your database
+
+`public ConstructorName() : base("name=[insertDBNameHere]"`
+   - This will prevent initialization
+   
+4. Create the properties that align with the Entity Classes
+   - When creating the `DbSet<EntitynName>`, press CTRL + . to grab the namespace needed from the other class library
+   - Make the names of the properties the same name as the entity but plural.
+   - Give the properties default attributes (`{get;set;}`)
 
 ```C#
 using System;
