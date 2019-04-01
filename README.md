@@ -13,6 +13,6 @@ Here's a bunch of content knowledge/snippets I want to remember
   - [Data Access Layer](DAL.md)
     - [DAL Basics](DALBasics.md)
   - [Business Logic Layer](BLL.md)
-    - [Controllers](Controllers.md)
+    - [BLL Basics](BLLBasics)
     - [Stored Procedures](UsingStoredProcedures.md)
     
