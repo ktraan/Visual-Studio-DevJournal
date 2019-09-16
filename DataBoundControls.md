@@ -14,8 +14,6 @@
 - ListView (Can operate all CRUD functionallity)
 - Repeater
 
-
-
 # To Connect the BLL To ObjectDataSource
 
 - Go to your desired BLL Controller
