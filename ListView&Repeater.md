@@ -9,3 +9,6 @@
     </LayoutTemplate>
 </asp:ListView>
 ``
+# Repeater
+- Repeaters are another way to display information.
+- They are usually only used to display, instead of CRUD.
