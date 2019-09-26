@@ -1,4 +1,4 @@
-##  Kevin's Developer Journal
+##  VS Developer Journal
 
 Here's a bunch of content knowledge/snippets I want to remember
 
