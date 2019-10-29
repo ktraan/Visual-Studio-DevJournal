@@ -1,25 +1,26 @@
-##  VS Developer Journal
+#  VS Developer Journal
 
 Here's a bunch of content knowledge/snippets I want to remember
 
+## Web Application Related
 - **Razor**
-  - [Html.Helper Methods](razorHtmlHelper.md)
+  - [Html.Helper Methods](WebApplicationInfo/razorHtmlHelper.md)
 
 - **ASP.NET WebForms**
-  - [Web Form References](WebFormReferences.md)
-  - [Web Forms Accessing Database](WebFormsAccessingDatabase.md)
-  - [connectionStrings](connectionString.md)
-  - [Setting up Class Libraries](ClassLibrary.md)
-  - [Adding References](WebFormReferences.md)
-  - [Entity Classes Basics](EntityClass.md)
-  - [EntityDataModel](EntityDataModel.md)
-  - [GridView Usage](GridviewUsage.md)
+  - [Web Form References](WebApplicationInfo/WebFormReferences.md)
+  - [Web Forms Accessing Database](WebApplicationInfo/WebFormsAccessingDatabase.md)
+  - [connectionStrings](WebApplicationInfo/connectionString.md)
+  - [Setting up Class Libraries](WebApplicationInfo/ClassLibrary.md)
+  - [Adding References](WebApplicationInfo/WebFormReferences.md)
+  - [Entity Classes Basics](WebApplicationInfo/EntityClass.md)
+  - [EntityDataModel](WebApplicationInfo/EntityDataModel.md)
+  - [GridView Usage](WebApplicationInfo/GridviewUsage.md)
   - Data Access Layer
-    - [DAL Basics](DALBasics.md)
+    - [DAL Basics](WebApplicationInfo/DALBasics.md)
   - Business Logic Layer
-    - [BLL Basics](BLLBasics)
-    - [Stored Procedures](UsingStoredProcedures.md)
-  - [DataBound Controls](DataBoundControls.md)
-  - [Using Stored Procedures](UsingStoredProcedures.md)
+    - [BLL Basics](WebApplicationInfo/BLLBasics)
+    - [Stored Procedures](WebApplicationInfo/UsingStoredProcedures.md)
+  - [DataBound Controls](WebApplicationInfo/DataBoundControls.md)
+  - [Using Stored Procedures](WebApplicationInfo/UsingStoredProcedures.md)
 
 - **LINQ**
