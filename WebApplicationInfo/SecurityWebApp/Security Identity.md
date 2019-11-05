@@ -1,11 +1,5 @@
-
-
-
-
-
-
-
-
+- Using a BLL controller creates a more secure connection from the Presentation Layer to the Business Logic Layer
+- Add ``internal`` to a class will add another layer of security
 
 
 
