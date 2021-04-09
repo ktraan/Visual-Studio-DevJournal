@@ -1,26 +1,23 @@
-#  VS Developer Journal
+# C# & Visual Studio Developer Journal
 
-Here's a bunch of content knowledge/snippets I want to remember
+> - This is my C# & Visual Studio developer journal.
+> - This includes all of the things I have learned throughout my development journey.
 
-## Web Application Related
-- **Razor**
-  - [Html.Helper Methods](WebApplicationInfo/razorHtmlHelper.md)
+## Basics
 
-- **ASP.NET WebForms**
-  - [Web Form References](WebApplicationInfo/WebFormReferences.md)
-  - [Web Forms Accessing Database](WebApplicationInfo/WebFormsAccessingDatabase.md)
-  - [connectionStrings](WebApplicationInfo/connectionString.md)
-  - [Setting up Class Libraries](WebApplicationInfo/ClassLibrary.md)
-  - [Adding References](WebApplicationInfo/WebFormReferences.md)
-  - [Entity Classes Basics](WebApplicationInfo/EntityClass.md)
-  - [EntityDataModel](WebApplicationInfo/EntityDataModel.md)
-  - [GridView Usage](WebApplicationInfo/GridviewUsage.md)
-  - Data Access Layer
-    - [DAL Basics](WebApplicationInfo/DALBasics.md)
-  - Business Logic Layer
-    - [BLL Basics](WebApplicationInfo/BLLBasics)
-    - [Stored Procedures](WebApplicationInfo/UsingStoredProcedures.md)
-  - [DataBound Controls](WebApplicationInfo/DataBoundControls.md)
-  - [Using Stored Procedures](WebApplicationInfo/UsingStoredProcedures.md)
+### What is Object Oriented Programming?
 
-- **LINQ**
+- OOP is a programming methodology that utilizes 'objects'.
+- These objects are a way to represent something in the real world.
+
+There are many benefits of OOP such as:
+
+- Code reusability, data redundancy, maintenance, security, problem solving, [polymorphism](Dictionary/Polymorphism.md), increased productivity.
+
+### Classes & Objects
+
+- Classes are like a blueprint of something in real life, such as a Car or a Student.
+- Classes allow us to create instances(objects) of these representations.
+- Classes contain properties (Car.Year, Car.Make, Car.Model), constructors, mutators
+
+---
